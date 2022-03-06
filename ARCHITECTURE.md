@@ -1,6 +1,6 @@
 # Architecture
 
-My golang code is inspired by the domain-driven design born from JavaScript.
+My golang code is inspired by the layered architecture born from JavaScript.
 
 - My friend writes similar document for JavaScript. Please refer to [r-sylph/web](https://github.com/r-sylph/web/blob/master/.github/ARCHITECTURE.md) if you want.
 
@@ -18,7 +18,7 @@ My golang code is inspired by the domain-driven design born from JavaScript.
 
 ## Directory Structure
 
-- The structure is a hybrid of DDD and [golang-standards/project-layout](https://github.com/golang-standards/project-layout).
+- The structure is a hybrid of the layered architecture and [golang-standards/project-layout](https://github.com/golang-standards/project-layout).
 
   | Directory               | Description                                                                                                                                                                                          |
   | :---------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
