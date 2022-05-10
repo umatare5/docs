@@ -5,7 +5,7 @@
 ## 前提
 
 - インフラエンジニアとして 12 年の業務経験と業界知識
-  - うち、Windows 4 年、Linux 10 年、Network 6 年、SRE 5 年 (兼任を含む)
+  - うち、Windows 4 年、Linux 8 年、Network 6 年、SRE 5 年 (兼任を含む)
 
 ## 目次
 
