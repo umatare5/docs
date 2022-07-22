@@ -15,7 +15,7 @@
 | [Chapter-2 チームでうまく仕事をするには](./Chapter-2.md)             | 全エンジニア               |
 | [Chapter-3 知識共有](./Chapter-3.md)                                 | 全エンジニア               |
 | [Chapter-4 公正のためのエンジニアリング](./Chapter-4.md)             | エンジニアリングマネージャ |
-| [Chapter-5 チームリーダー入門](./Chapter-5.md)                       | Unknown                    |
+| [Chapter-5 チームリーダー入門](./Chapter-5.md)                       | エンジニアリングマネージャ |
 | [Chapter-6 スケールするリーダー](./Chapter-6.md)                     | Unknown                    |
 | [Chapter-7 エンジニアリング生産性の計測](./Chapter-7.md)             | Unknown                    |
 | [Chapter-8 スタイルガイドとルール](./Chapter-8.md)                   | Unknown                    |
