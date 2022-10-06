@@ -16,11 +16,11 @@
 | [Chapter-3 知識共有](./Chapter-3.md)                                 | 全エンジニア               |
 | [Chapter-4 公正のためのエンジニアリング](./Chapter-4.md)             | エンジニアリングマネージャ |
 | [Chapter-5 チームリーダー入門](./Chapter-5.md)                       | エンジニアリングマネージャ |
-| [Chapter-6 スケールするリーダー](./Chapter-6.md)                     | Unknown                    |
-| [Chapter-7 エンジニアリング生産性の計測](./Chapter-7.md)             | Unknown                    |
-| [Chapter-8 スタイルガイドとルール](./Chapter-8.md)                   | Unknown                    |
-| [Chapter-9 コードレビュー](./Chapter-9.md)                           | Unknown                    |
-| [Chapter-10 ドキュメンテーション](./Chapter-10.md)                   | Unknown                    |
+| [Chapter-6 スケールするリーダー](./Chapter-6.md)                     | エンジニアリングマネージャ |
+| [Chapter-7 エンジニアリング生産性の計測](./Chapter-7.md)             | エンジニアリングマネージャ |
+| [Chapter-8 スタイルガイドとルール](./Chapter-8.md)                   | 全エンジニア               |
+| [Chapter-9 コードレビュー](./Chapter-9.md)                           | 全エンジニア               |
+| [Chapter-10 ドキュメンテーション](./Chapter-10.md)                   | 全エンジニア               |
 | [Chapter-11 テスト概観](./Chapter-11.md)                             | Unknown                    |
 | [Chapter-12 ユニットテスト](./Chapter-12.md)                         | Unknown                    |
 | [Chapter-13 テストダブル](./Chapter-13.md)                           | Unknown                    |
